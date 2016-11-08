@@ -7,3 +7,5 @@ A collection of useful stuff that I find useful
 
 [Linux Commands](./linux.md)
 
+[File Upload](./fileupload.md)
+
