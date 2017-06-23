@@ -9,3 +9,4 @@ A collection of useful stuff that I find useful
 
 [File Upload](./fileupload.md)
 
+[Postgres Commands](./postgres.md)
